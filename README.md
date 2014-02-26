@@ -1,4 +1,4 @@
 resoras
 =======
 
-Responsive template for Joomla 2.5
+Responsive template for Joomla 3
